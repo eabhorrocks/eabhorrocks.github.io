@@ -13,10 +13,10 @@ title                    : "Edward A. B. Horrocks"
 title_separator          : "-"
 name                     : &name "Edward A. B. Horrocks"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://eabhorrocks.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "eabhorrocks/eabhorrocks.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,8 +27,8 @@ author:
   name             : "Edward A. B. Horrocks"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow researrching in how sensory processing and perception flexibly adapt to context"
-  location         : "London, UK"
-  employer         : "IBN, University College London"
+  location         : "Institute of Behavioural Neuroscience"
+  employer         : "University College London"
   uri              : # URL
   email            : "edward.horrocks.17@ucl.ac.uk" 
 
